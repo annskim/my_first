@@ -90,4 +90,6 @@ https://git-scm.com/
 
 16. untracked file 과 directory 를 모두 삭제하기
 
->git  clean  -fd
+>git  clean  
+수정 
+수정
